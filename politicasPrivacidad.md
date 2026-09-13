@@ -7,7 +7,7 @@ Esta política se expide conforme a la **Ley 1581 de 2012**, el **Decreto 1074 d
 2015** (que incorpora el Decreto 1377 de 2013) y demás normas colombianas sobre
 protección de datos personales.
 
---- 454
+--- 
 
 ## 1. Responsable del tratamiento
 
